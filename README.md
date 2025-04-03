@@ -95,7 +95,7 @@ Los dispositivos de entrada y salida permiten la interacción entre el usuario y
 - **Impresora:** Permite que el usuario imprima documentos en papel.
 - **Altavoces:** Permiten emitir sonidos al usuario.
 
-Estos son algunos de los componentes más relevantes del hardware de una computadora. Si necesitas más detalles o información sobre algún otro componente, no dudes en preguntar.
+
 
 # 🎮 ¿Qué es el Software?
 
