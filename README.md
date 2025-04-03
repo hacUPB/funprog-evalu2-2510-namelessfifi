@@ -35,7 +35,67 @@ Son el conjunto de los componentes materiales, tangibles, de un computador o un 
 
 **Fuente:** https://concepto.de/hardware/#ixzz8zIbdapO1
 
-**— La placa madre:**  Es un circuito impreso sobre el que se conectan el resto de los componentes de la computadora. Las características de la placa madre determinan las características del resto de los componentes (tecnología del procesador, el tipo de memoria RAM, el rendimiento de la tarjeta gráfica, etc.). Una serie de componentes llamados buses conectan los componentes entre sí.
+
+
+### 1. **CPU (Unidad Central de Procesamiento)**
+
+La **CPU** es el "cerebro" de la computadora, encargado de realizar los cálculos, las operaciones lógicas y el control del flujo de datos. La CPU ejecuta las instrucciones de los programas, realizando tareas fundamentales para que el sistema operativo y las aplicaciones funcionen correctamente.
+
+
+- **ALU (Unidad Aritmético Lógica):**
+    - **Definición:** Es una de las partes más importantes de la CPU. Se encarga de realizar operaciones aritméticas (como sumas y restas) y lógicas (como comparaciones).
+    - **Función:** La ALU ejecuta operaciones matemáticas (como la suma, la multiplicación o la división) y operaciones lógicas (como las comparaciones de "mayor que" o "igual a"). También maneja las operaciones bit a bit en algunos casos.
+  
+- **Unidad de Control:**
+    - **Definición:** La unidad de control es responsable de coordinar todas las actividades dentro de la CPU. Se encarga de interpretar las instrucciones de los programas y controlar el flujo de datos entre los diferentes componentes de la computadora.
+    - **Función:** Su principal función es dirigir el flujo de datos entre la ALU, los registros y la memoria, asegurándose de que las operaciones se ejecuten de manera ordenada y eficiente.
+
+- **Registros:**
+    - **Definición:** Los registros son pequeñas ubicaciones de almacenamiento dentro de la CPU. Son muy rápidas y se utilizan para almacenar temporalmente datos e instrucciones que están siendo procesadas.
+    - **Función:** Los registros se utilizan para almacenar resultados intermedios de cálculos, direcciones de memoria, o instrucciones que la CPU necesita procesar. Existen diferentes tipos de registros, como los registros de datos, los registros de direcciones y los registros de estado.
+
+- **Buses:**
+    - **Definición:** Un bus es un conjunto de líneas o circuitos que transportan datos entre diferentes componentes de la computadora.
+    - **Función:** Los buses permiten la comunicación entre la CPU, la memoria y otros dispositivos de entrada/salida. Existen varios tipos de buses, como el bus de datos, el bus de direcciones y el bus de control.
+
+### 2. **Memoria**
+
+La memoria es una parte esencial del hardware que permite almacenar datos e instrucciones para su procesamiento. Existen diferentes tipos de memoria, cada una con distintas características de velocidad y capacidad.
+
+#### Tipos de memoria:
+
+- **Registros:**
+    - **Definición:** Son pequeñas ubicaciones dentro de la CPU que almacenan información temporalmente.
+    - **Función:** Los registros permiten a la CPU acceder rápidamente a los datos y realizar operaciones sin tener que acceder a la memoria principal. Son muy rápidos, pero tienen una capacidad limitada.
+
+- **Caché:**
+    - **Definición:** La caché es una memoria de acceso ultrarrápido que se encuentra entre la CPU y la memoria principal (RAM).
+    - **Función:** Su función es almacenar temporalmente los datos más frecuentemente utilizados, para que la CPU pueda acceder a ellos rápidamente sin tener que acceder a la memoria RAM, que es más lenta. La caché reduce significativamente el tiempo de acceso a los datos y mejora el rendimiento del sistema.
+
+- **Memoria Principal (RAM - Memoria de Acceso Aleatorio):**
+    - **Definición:** La RAM es la memoria principal de la computadora, que almacena datos e instrucciones que están en uso activo por los programas.
+    - **Función:** La RAM permite a la CPU acceder rápidamente a los datos que están siendo procesados. Es volátil, lo que significa que pierde los datos cuando se apaga el sistema.
+
+- **Memoria Secundaria (Disco Duro y Unidades Externas de Almacenamiento):**
+    - **Definición:** Son dispositivos de almacenamiento a largo plazo, como los discos duros (HDD), las unidades de estado sólido (SSD) y las unidades externas (pendrives, discos duros externos).
+    - **Función:** La memoria secundaria se utiliza para almacenar datos de manera permanente, incluso cuando el equipo está apagado. Los discos duros y las SSDs ofrecen un gran almacenamiento de datos, aunque son más lentos que la memoria RAM.
+
+### 3. **Dispositivos de Entrada / Salida**
+
+Los dispositivos de entrada y salida permiten la interacción entre el usuario y la computadora. Los dispositivos de **entrada** permiten que el usuario envíe información al sistema, mientras que los dispositivos de **salida** permiten que el sistema envíe información al usuario.
+
+#### Dispositivos de Entrada:
+- **Teclado:** Permite al usuario introducir texto y comandos.
+- **Ratón (Mouse):** Permite al usuario interactuar con la interfaz gráfica de la computadora.
+- **Escáner:** Convierte imágenes físicas en formatos digitales.
+- **Micrófono:** Permite la entrada de sonido o voz al sistema.
+
+#### Dispositivos de Salida:
+- **Monitor:** Muestra información visual al usuario.
+- **Impresora:** Permite que el usuario imprima documentos en papel.
+- **Altavoces:** Permiten emitir sonidos al usuario.
+
+Estos son algunos de los componentes más relevantes del hardware de una computadora. Si necesitas más detalles o información sobre algún otro componente, no dudes en preguntar.
 
 # 🎮 ¿Qué es el Software?
 
