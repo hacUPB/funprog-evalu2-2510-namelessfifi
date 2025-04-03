@@ -42,28 +42,48 @@ Son el conjunto de los componentes materiales, tangibles, de un computador o un 
 Conjunto de programas que permiten el funcionamiento del hardware.
 
 **— Software de sistema:** Gestiona recursos del hardware (SO, drivers, BIOS).
+
 **— Software de aplicación:** Programas para el usuario (navegadores, editores de texto).
+
 **— Software de desarrollo:** Herramientas para programadores (compiladores, IDEs).
 
 **Fuente:** https://concepto.de/software/
 
 # 📲 Funcionamiento del computador.
 **Procesos al encender la computadora:**
+
 — BIOS/UEFI: Realiza el POST (Power-On Self Test).
+
 — Carga del SO: Se busca el sistema operativo en el almacenamiento.
+
 — Inicialización: Se configuran drivers y procesos.
+
 **Procesamiento de datos (ejemplo: teclado a pantalla)**
+
 — Entrada por teclado.
+
 — CPU interpreta y procesa la entrada.
+
 — Resultado enviado a la GPU.
+
 — La pantalla muestra la salida.
+
 **Codificación interna de datos**
+
 — Datos representados en binario (0 y 1).
+
 — Uso de sistemas como ASCII, Unicode para caracteres.
+
 **Unidades de medida de datos**
+
 — Bit: Unidad mínima (0 o 1).
+
 — Byte: 8 bits.
+
 — Kilobyte (KB): 1024 bytes.
+
 — Megabyte (MB): 1024 KB.
+
 — Gigabyte (GB): 1024 MB.
+
 — Terabyte (TB): 1024 GB.
